@@ -1,6 +1,7 @@
 ## --------------
-Put comments here that give an overall description of what your
-## functions do
+## The set of functions in this file allow one to get an inverse matrix using the
+## solve function.  The inverse matrix is cached in the makeCacheMatrix environment
+## and can be updated and pulled from the cacheSolve function environment.
 ## --------------
 
 ## --------------
